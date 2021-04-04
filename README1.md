@@ -144,7 +144,8 @@ Route::delete('/menus/{id}', [App\Http\Controllers\MenusController::class, 'dele
 Vous retrouverez le controller des menus dans le fichier ```Restaurant_Advisor/app/Http/Controllers/MenusController.php```.
 
 
-_Suppression soft*: toujours existant mais non visible._
+_Suppression soft*: toujours existant mais non visible._ <br>
+[READMI2](READMI2.md)
 
 ## Auteurs
 
@@ -159,4 +160,4 @@ _Suppression soft*: toujours existant mais non visible._
 
 ## License
 
-Ce projet est en opensource, lire le CGG de ETNA school Paris.
+Ce projet est en opensource, lire le CGG de ETNA school Paris.B
