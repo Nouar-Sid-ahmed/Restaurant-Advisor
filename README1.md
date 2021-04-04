@@ -145,7 +145,7 @@ Vous retrouverez le controller des menus dans le fichier ```Restaurant_Advisor/a
 
 
 _Suppression soft*: toujours existant mais non visible._ <br>
-[READMI2](READMI2.md)
+[README2](README2.md)
 
 ## Auteurs
 
