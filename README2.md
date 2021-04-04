@@ -14,7 +14,7 @@ php artisan serve --host=192.168.0.0
 ```
 
 Récupérez le lien et type ``http://192.168.0.0:8000``.
-Ouvrez le [MyApplication/app/main/address.java](MyApplication/app/main/address.java) definir votre ip avec le lien tout juste copié.
+Ouvrez le [MyApplication/app/src/main/java/net/etna/myapplication/address.java](MyApplication/app/src/main/java/net/etna/myapplication/address.java) definir votre ip avec le lien tout juste copié.
 
 Et voilà votre application est prête à l'usage.
 
