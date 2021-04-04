@@ -34,19 +34,19 @@ Finir le package Utilisateur.
 
 * Migration:
 
-<img src="img/MigrationUsers.png"  width="350">
+<img src="img/Suivi1/MigrationUsers.png"  width="350">
 
 * Model:
 
-<img src="img/UserModel.png"  width="350">
+<img src="img/Suivi1/UserModel.png"  width="350">
 
 * Seeder:
 
-<img src="img/UserSeeder.png"  width="350">
+<img src="img/Suivi1/UserSeeder.png"  width="350">
 
 * Route:
 
-![Route User](img/RouteUser.png)
+![Route User](img/Suivi1/RouteUser.png)
 
 ### Mercredi 3 Mars:
 
@@ -58,19 +58,19 @@ Finir le package Restaurant.
 
 * Migration:
 
-<img src="img/MigrationRestaurants.png"  width="350">
+<img src="img/Suivi1/MigrationRestaurants.png"  width="350">
 
 * Model:
 
-<img src="img/RestaurantModel.png"  width="350">
+<img src="img/Suivi1/RestaurantModel.png"  width="350">
 
 * Seeder:
 
-<img src="img/RestaurantSeeder.png"  width="450">
+<img src="img/Suivi1/RestaurantSeeder.png"  width="450">
 
 * Route:
 
-![Route Restaurant](img/RouteRestaurant.png)
+![Route Restaurant](img/Suivi1/RouteRestaurant.png)
 
 ### Jeudi 4 Mars:
 
@@ -82,19 +82,19 @@ Finir le package Menu.
 
 * Migration:
 
-<img src="img/MigrationMenus.png"  width="350">
+<img src="img/Suivi1/MigrationMenus.png"  width="350">
 
 * Model:
 
-<img src="img/MenuModel.png"  width="350">
+<img src="img/Suivi1/MenuModel.png"  width="350">
 
 * Seeder:
 
-<img src="img/MenuSeeder.png"  width="450">
+<img src="img/Suivi1/MenuSeeder.png"  width="450">
 
 * Route:
 
-![Route Menu](img/RouteMenu.png)
+![Route Menu](img/Suivi1/RouteMenu.png)
 
 ### Vendredi 5 Mars:
 
@@ -104,7 +104,7 @@ Finaliser l'API, creation du README.md, écriture du Suivi en Markdown.
 
 #### Résultats:
 
-[API](/Restaurant_Advisor) fini avec [README1.md](README1.md).<br>
+[API](/Restaurant_Advisor) fini avec [README.md](README.md).<br>
 [Suivie front](Suivi2.md).<br>
 
 ## Auteurs
